@@ -53,7 +53,9 @@ __[Ruby Blog](#ruby-book)__<br/>
 <a id="about"></a>
 ### 📗 About
 
-#### TODO
+| Book Cover | About Book |
+|-------|-------|
+|[![Book Cover](./docs/assets/images/screenshots/book_cover.png)](https://leanpub.com/conhecendo-ruby)| Study repository with exercise snippets executed during the reading of the book [Conhecendo Ruby](https://leanpub.com/conhecendo-ruby). I had the need to add this language to my toolkit due to recent challenges and will use the books by the author [Eustáquio Rangel](https://eustaquiorangel.com/livros), as well as documentation, courses, and videos as a basis in this initial moment.|
 
 <br/>
 
