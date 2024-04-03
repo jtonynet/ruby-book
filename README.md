@@ -12,7 +12,7 @@
     https://devicon.dev/
     https://simpleicons.org/
 -->
-[<img src="./docs/assets/images/icons/ruby.svg" width="25px" height="25px" alt="ruby logo" title="Ruby">](https://www.ruby-lang.org/en/) [<img src="./docs/assets/images/icons/rubygems.svg" width="25px" height="25px" alt="rubygems logo" title="Ruby Gems">](https://rubygems.org/) [<img src="./docs/assets/images/icons/html5.svg" width="25px" height="25px" alt="html 5 logo" title="HTML 5">](https://dev.w3.org/html5/spec-LC/) [<img src="./docs/assets/images/icons/css3.svg" width="25px" height="25px" alt="css 3 logo" title="CSS 3">](https://www.w3.org/Style/CSS/Overview.en.html) [<img src="./docs/assets/images/icons/ubuntu.svg" width="25px" height="25px Logo" title="Ubunto" alt="Ubunto" />](https://ubuntu.com/) [<img src="./docs/assets/images/icons/github.svg" width="25px" height="25px" alt="GitHub Logo" title="GitHub">](https://github.com/jtonynet) [<img src="./docs/assets/images/icons/visualstudiocode.svg" width="25px" height="25px" alt="VsCode Logo" title="VsCode">](https://code.visualstudio.com/) 
+[<img src="./docs/assets/images/icons/ruby.svg" width="25px" height="25px" alt="ruby logo" title="Ruby">](https://www.ruby-lang.org/en/) [<img src="./docs/assets/images/icons/rubygems.svg" width="25px" height="25px" alt="rubygems logo" title="Ruby Gems">](https://rubygems.org/) [<img src="./docs/assets/images/icons/rubocop.svg" width="25px" height="25px" alt="rubocop logo" title="RuboCop">](https://rubocop.org/) [<img src="./docs/assets/images/icons/html5.svg" width="25px" height="25px" alt="html 5 logo" title="HTML 5">](https://dev.w3.org/html5/spec-LC/) [<img src="./docs/assets/images/icons/css3.svg" width="25px" height="25px" alt="css 3 logo" title="CSS 3">](https://www.w3.org/Style/CSS/Overview.en.html) [<img src="./docs/assets/images/icons/ubuntu.svg" width="25px" height="25px Logo" title="Ubunto" alt="Ubunto" />](https://ubuntu.com/) [<img src="./docs/assets/images/icons/github.svg" width="25px" height="25px" alt="GitHub Logo" title="GitHub">](https://github.com/jtonynet) [<img src="./docs/assets/images/icons/visualstudiocode.svg" width="25px" height="25px" alt="VsCode Logo" title="VsCode">](https://code.visualstudio.com/) 
 
 <!--
 [<img src="./docs/assets/images/icons/nodedotjs.svg" width="25px" height="25px" alt="nodedotjs logo" title="NodeJS">](https://nodejs.org/en) [<img src="./docs/assets/images/icons/webpack.svg" width="25px" height="25px" alt="webpack logo" title="WebPack">](https://webpack.js.org/)
@@ -43,8 +43,7 @@ __[Ruby Blog](#ruby-book)__<br/>
   1. ⤴️ [Index](#index)
   2. 📗 [About](#about)
   3. 💻 [Run the Project](#run)
-  4. 📊 [Diagrams](#diagrams)
-  5. 🤖 [Use of AI](#ia)
+  4. 🤖 [Use of AI](#ia)
  
 <br/>
 
@@ -55,7 +54,7 @@ __[Ruby Blog](#ruby-book)__<br/>
 
 | Book Cover | About Book |
 |-------|-------|
-|[![Book Cover](./docs/assets/images/screenshots/book_cover.png)](https://leanpub.com/conhecendo-ruby)| Study repository with exercise snippets executed during the reading of the book [Conhecendo Ruby](https://leanpub.com/conhecendo-ruby). I had the need to add this language to my toolkit due to recent challenges and will use the books by the author [Eustáquio Rangel](https://eustaquiorangel.com/livros), as well as documentation, courses, and videos as a basis in this initial moment.|
+|[![Book Cover](./docs/assets/images/screenshots/book_cover.png)](https://leanpub.com/conhecendo-ruby)| Study repository with exercise snippets executed during the reading of the free book [Conhecendo Ruby](https://leanpub.com/conhecendo-ruby). I had the need to add this language to my toolkit due to recent challenges and will use the books by the author [Eustáquio Rangel](https://eustaquiorangel.com/livros), as well as documentation, courses, and videos as a basis in this initial moment.|
 
 <br/>
 
@@ -66,7 +65,12 @@ __[Ruby Blog](#ruby-book)__<br/>
 <a id="run"></a>
 ### 💻 Run the Project
 
-#### TODO
+- <img src="./docs/assets/images/icons/ubuntu.svg" width="15px" height="15px" alt="ubuntu logo" title="Ubuntu"> Created and tested on Ubuntu 22.04.4 LTS
+
+  - [<img src="./docs/assets/images/icons/ruby.svg" width="15px" height="15px" alt="ruby logo" title="Ruby"> Ruby Version: 3.2.3 Install Ruby Instructions](https://www.ruby-lang.org/en/documentation/installation/#apt) with [rbenv](https://github.com/rbenv/rbenv) (one of the suggestions in the book)
+
+  - [<img src="./docs/assets/images/icons/rubocop.svg" width="15px" height="15px" alt="rubocop logo" title="RuboCop"> Instaling Rubocop and configure on VScode](https://stackoverflow.com/questions/53367947/rubocop-on-vscode-not-working-error-rubocop-is-not-executable)
+
 
 <br/>
 
