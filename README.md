@@ -71,6 +71,16 @@ __[Ruby Blog](#ruby-book)__<br/>
 
   - [<img src="./docs/assets/images/icons/rubocop.svg" width="15px" height="15px" alt="rubocop logo" title="RuboCop"> Instaling Rubocop and configure on VScode](https://stackoverflow.com/questions/53367947/rubocop-on-vscode-not-working-error-rubocop-is-not-executable)
 
+<br/>
+
+The project was built using exercises, examples, and code snippets from the book for language practice purposes. These codes are divided within the [chapters](./chapters) folder. 
+With Ruby properly installed, you can run the command `ruby filename.rb` and see the output in your console of the book exercises. The [chapters](./chapters) folder is divided as follows:
+
+- [Chapters](./chapters)
+  - [Chapter 03](./chapters/chapter-03) - The basics of language and Methods
+  - Chapter 04 - Classes and Objects
+  - Chapter 05 - Modules
+
 
 <br/>
 
