@@ -78,7 +78,7 @@ With Ruby properly installed, you can run the command `ruby filename.rb` and see
 
 - [Chapters](./chapters)
   - [Chapter 03](./chapters/chapter-03) - The basics of language and Methods
-  - Chapter 04 - Classes and Objects
+  - [Chapter 04](./chapters/chapter-04) - Classes and Objects
   - Chapter 05 - Modules
 
 
