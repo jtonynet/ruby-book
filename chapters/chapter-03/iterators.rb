@@ -25,7 +25,7 @@ puts "------------\n\n"
 col.each { |it| puts it }
 puts "------------\n\n"
 
-puts (1..10).select { |it| it.even? }
+puts ((1..10).select { |it| it.even? })
 puts "------------\n\n"
 
 puts ({ 1 => "um", 2 => "dois", 3 => "tres" }.select { |chave, valor| valor.length > 2 })
@@ -41,19 +41,19 @@ end
 p natural_numbers.lazy.select { |it| it.odd? }.take(5).to_a
 puts "------------\n\n"
 
-puts (0..10).reject { |it| it.even? }
+puts ((0..10).reject { |it| it.even? })
 puts "------------\n\n"
 
-puts (0..10).map { |it| it * 2 }
+puts ((0..10).map { |it| it * 2 })
 puts "------------\n\n"
 
-puts (0..10).detect { |it| it > 0 && it % 4 ==0 }
+puts ((0..10).detect { |it| it > 0 && it % 4 ==0 })
 puts "------------\n\n"
 
 puts (%w(joao maria antonio).max { |elemento1, elemento2| elemento1.length <=> elemento2.length })
 puts "------------\n\n"
 
-puts(%w(joao maria antonio).min { |elemento1, elemento2| elemento1.length <=> elemento2.length })
+puts (%w(joao maria antonio).min { |elemento1, elemento2| elemento1.length <=> elemento2.length })
 puts "------------\n\n"
 
 puts ({ joao: 33, maria: 30, antonio: 25 }.max { |elemento1, elemento2| elemento1[1] <=> elemento2[1] })
