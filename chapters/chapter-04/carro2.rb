@@ -1,7 +1,6 @@
 class Carro
   attr_reader :marca, :modelo, :tanque
   attr_accessor :cor
-
   def initialize(marca, modelo, cor, tanque)
     @marca = marca
     @modelo = modelo
@@ -15,8 +14,13 @@ class Carro
 end
 
 corsa = Carro.new(:chevrolet, :corsa, :preto, 50)
-p corsa
-puts corsa
-corsa.cor = :branco
-puts corsa.cor
-puts "------------\n\n"
+gol = Carro.new(:volks, :gol, :azul, 42)
+
+class << corsa
+  def novo_metodo
+    puts "Novo método!"
+  end
+end
+
+corsa.novo_metodo
+ # gol.novo_metodo #--> VAI QUEBRAR
