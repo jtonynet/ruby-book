@@ -78,7 +78,7 @@ With Ruby properly installed, you can run the command `ruby filename.rb` and see
 
 - [Chapters](./chapters)
   - [Chapter 03](./chapters/chapter-03) - The basics of language and Methods
-  - Chapter 04 - Classes and Objects
+  - [Chapter 04](./chapters/chapter-04) - Classes and Objects
   - Chapter 05 - Modules
 
 
@@ -111,3 +111,15 @@ Hire artists for commercial or more elaborate projects and Learn Ingenuity!
 <br/>
 
 [⤴️ Back to Index](#index)
+
+<!-- 
+lambda { @conversation.conversation_executions } status: 'supervision'
+
+docker compose up postgres redis mailhog -d
+
+yarn run build:watch
+
+DATABASE_PORT=5435 DATABASE_ENDPOINT=postgres REDIS_URL=redis://redis:6379/0  CABLE_REDIS_URL=redis://redis:6379/1 RUBY_YJIT_ENABLE=1 RAILS_MAX_THREADS=20 bin/rails s
+
+admin@dev.com | admin@123
+-->
